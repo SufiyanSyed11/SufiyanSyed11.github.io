@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.crosspost",
+      "sha256_cert_fingerprints": [
+        "BF:9D:55:B4:DE:E4:0F:F2:A9:0F:8C:21:CF:21:69:B1:6E:40:42:8D:55:81:8F:F2:E8:FE:23:6B:60:C4:77:70"
+      ]
+    }
+  }
+]
